@@ -1,5 +1,4 @@
 # Argo xray for Node.js
-
 ## 项目特点
 
 * 本项目可在任意一家支持 Node.js 的云平台上部署xray ，采用的方案为 Argo + Node.js + WebSocket + VMess / Vless / Trojan / Shadowsocks + TLS
