@@ -34,7 +34,7 @@
 
 ## 鸣谢
 
-Fscarmen 的 xray 项目：https://github.com/Misaka-blog
+Misaka-blog 的 xray 项目：https://github.com/Misaka-blog
 
 ## 免责声明
 
