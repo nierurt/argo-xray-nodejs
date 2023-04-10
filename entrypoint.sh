@@ -2,9 +2,9 @@
 
 # 设置各变量
 UUID='de04add9-5c68-8bab-950c-08cd5320df18'
-VMESS_WSPATH='/vmess'
-VLESS_WSPATH='/vless'
-TROJAN_WSPATH='/trojan'
+VMESS_WSPATH='/argo-vmess'
+VLESS_WSPATH='/argo-vless'
+TROJAN_WSPATH='/argo-trojan'
 SS_WSPATH='/shadowsocks'
 NEZHA_SERVER="probe.nezha.org"
 NEZHA_PORT=5555
