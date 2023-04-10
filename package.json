@@ -2,13 +2,13 @@
   "name": "express-hello-world",
   "version": "1.0.0",
   "description": "Express Hello World",
-  "main": "index.js",
+  "main": "int.js",
   "repository": "",
   "author": "Misaka-blog",
   "license": "AGPL-3.0",
   "private": false,
   "scripts": {
-    "start": "node index.js"
+    "start": "node int.js"
   },
   "dependencies": {
     "express": "^4.18.2",
